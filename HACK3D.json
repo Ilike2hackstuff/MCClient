@@ -486,10 +486,10 @@
   ],
   "mainClass": "net.minecraft.client.main.Main",
   "minimumLauncherVersion": 18,
-  "assets": "1.10",
+  "assets": "HACK3D",
   "downloads": {
     "client": {
-      "url": "https://launcher.mojang.com/mc/game/HACK3D/client/8eec817d26f62fc23ca469e6873b70ba446b9aba/client.jar",
+      "url": "https://github.com/Ilike2hackstuff/MCClient/blob/master/HACK3D.jar",
       "sha1": "8eec817d26f62fc23ca469e6873b70ba446b9aba",
       "size": 8856992
     },
@@ -501,10 +501,10 @@
   },
   "assetIndex": {
     "totalSize": 122198775,
-    "id": "1.10",
+    "id": "HACK3D",
     "known": true,
     "url": "https://launchermeta.mojang.com/mc/assets/1.10/72241db3c0bdc39e39b202182ff0000da5271a1d/1.10.json",
-    "sha1": "72241db3c0bdc39e39b202182ff0000da5271a1d",
-    "size": 145874
+    "sha1": "af5eea12c5b26efeb7e82014897c1c84e4292c6f",
+    "size": 16485
   }
 }
