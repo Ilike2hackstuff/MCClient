@@ -503,8 +503,8 @@
     "totalSize": 122198775,
     "id": "HACK3D",
     "known": true,
-    "url": "https://launchermeta.mojang.com/mc/assets/1.10/72241db3c0bdc39e39b202182ff0000da5271a1d/1.10.json",
-    "sha1": "af5eea12c5b26efeb7e82014897c1c84e4292c6f",
+    "url": "https://github.com/Ilike2hackstuff/MCClient/blob/master/HACK3D.json",
+    "sha1": "fff36508acd24f1bd558add9cd0983c5ff1df51f",
     "size": 16485
   }
 }
